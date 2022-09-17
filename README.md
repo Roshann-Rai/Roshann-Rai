@@ -1,5 +1,5 @@
 ### :technologist: About Me:
-- :telescope: Currently an University Student and R enthusiasist and self learner.
+- :telescope: Currently an University Student, R enthusiasist and self learner.
 
 - :seedling: Doing my own projects in R.
 
