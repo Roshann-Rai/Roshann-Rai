@@ -5,4 +5,4 @@
 
 - :zap: In my free time, I love reading articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge)](https://www.linkedin.com/in/roshan-rai-935301217/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-rai-935301217/)
