@@ -5,6 +5,6 @@
 
 - :zap: In my free time, I love reading articles.
 
-- My Blogs @ github.com/Roshann-rai/roshan
+- :link: https://roshann-rai.github.io/roshan/
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-rai-935301217/)
