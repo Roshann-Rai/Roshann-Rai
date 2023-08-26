@@ -1,7 +1,7 @@
 ### :technologist: About Me:
 - :telescope: Currently an University Student, R enthusiasist and self learner.
 
-- :seedling: Doing my own projects in R.
+- :seedling: Interested in Finance and Economics.
 
 - :zap: In my free time, I love reading articles.
 
