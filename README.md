@@ -1,4 +1,4 @@
-### :technologist: About Me:
+### About Me:
 - 👨‍💼Senior Assistant at [Securities Board of Nepal](https://sebon.gov.np/)
 
 - :telescope: Currently an University Student, R enthusiasist and self learner.
