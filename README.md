@@ -3,7 +3,7 @@
 
 I am an MBA (Finance) graduate from Kathmandu University School of Management. Currently I am working as a Senior Assistant at Securities Board of Nepal. I am interested in finance and economics. I learn R programming in my free time.
 
-![Roshann-Rai's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Roshann-Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
 
