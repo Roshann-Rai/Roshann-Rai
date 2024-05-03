@@ -1,7 +1,7 @@
 
 # Hi, I'm <ROSHAN RAI>! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am an MBA (Finance) graduate from Kathmandu University School of Management. Currently I am working as a Senior Assistant at Securities Board of Nepal. I am interested in finance and economics. I learn R programming in my free time.
 
 ![<Roshann-Rai>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -20,6 +20,6 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## 📬 Get in Touch
 
-- Connect with me on [[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-rai-935301217/)
+- Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-rai-935301217/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
