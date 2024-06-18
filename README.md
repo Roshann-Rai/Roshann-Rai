@@ -13,8 +13,8 @@ I am an MBA (Finance) graduate from Kathmandu University School of Management. C
 - ✍️ I am a self learner and R enthusiasist.
 
 ## My Articles
-- [Financial Literacy: Beyond Investor Protection](https://roshann-rai.github.io/financial-literacy.html)
-- [Financing for Greener Future: Exploring the potential of green bonds in Nepal](https://roshann-rai.github.io/green-bonds.html)
+- [Financial Literacy: Beyond Investor Protection](https://roshann-rai.github.io/2/)
+- [Financing for Greener Future: Exploring the potential of green bonds in Nepal](https://roshann-rai.github.io/1/)
 
 
 ## 📬 Get in Touch
